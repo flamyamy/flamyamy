@@ -11,7 +11,7 @@
 
 
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=jazzboarder&theme=dracula)
+![trophy](https://github-profile-trophy.vercel.app/?username=Jazzboarder&theme=dracula)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
