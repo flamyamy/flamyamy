@@ -11,7 +11,7 @@
 
 
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=flamyamy&theme=dracula)
+![trophy](https://github-profile-trophy.vercel.app/?username=flamyamy&theme=onedark)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
