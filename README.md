@@ -8,11 +8,10 @@
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=html,php,py,js)](https://skillicons.dev)
 
-
-## 📊 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flamyamy&show_icons=true&theme=dracula)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=flamyamy&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+## 📊 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flamyamy&hide_progress=trueicons=true&theme=dracula)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
