@@ -9,7 +9,8 @@
 [![My Skills](https://skillicons.dev/icons?i=html,php,py,js)](https://skillicons.dev)
 
 
-
+## 📊 GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flamyamy&show_icons=true&theme=dracula)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=flamyamy&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 ### ✍️ Random Dev Quote
